@@ -6,5 +6,5 @@ kufa 1주차 프로젝트
 
 kufa 1주차 프로젝트
 https://rpubs.com/jaehyunkim/1104853
-kufa 1주차 프로젝트
+kufa 2주차 프로젝트
 https://rpubs.com/jaehyunkim/1109450
