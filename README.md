@@ -12,3 +12,6 @@ https://rpubs.com/jaehyunkim/1109450
 
 kufa 3주차 프로젝트
 https://rpubs.com/jaehyunkim/1117295
+
+kufa 4주차 프로젝트
+RPubs - kufa_data_4
